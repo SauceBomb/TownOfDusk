@@ -18,3 +18,6 @@
 - An Unfinished Life, BurningFireStones
 - Dolls, Alstroemeria Records
 - Kyrie, 無力P
+
+# 其他
+- 隐私声明，在各个平台上发布的本游戏不会收集用户信息
