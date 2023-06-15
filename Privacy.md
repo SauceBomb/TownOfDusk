@@ -1,2 +1,5 @@
-各个平台发布的游戏《黄昏之城》不会收集用户的任何信息。  
-**开发者署名**：酱爆八汰鸟（别名：酱爆 | English name: Sauce Bomb)
+# 隐私政策协议
+本游戏《黄昏之城》不会收集用户信息
+
+**开发者署名**：酱爆八汰鸟（别名：酱爆 | English name: Sauce Bomb)  
+联系方式：saucebomb@outlook.com
