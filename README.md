@@ -1,7 +1,6 @@
 # 游戏链接
-微软商店：https://www.microsoft.com/store/apps/9N5TP18WN5QK
-
-itch.io: https://saucebomb.itch.io/town-of-dusk
+Windows, MacOS, Linux: **Steam** https://store.steampowered.com/app/2428190
+安卓: **Google Play商店** https://play.google.com/store/apps/details?id=com.sauce.dusk
 
 # 游戏简介
 在《黄昏之城》中，您将扮演多个角色，您的不同选择会影响剧情走向。
