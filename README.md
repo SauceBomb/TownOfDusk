@@ -1,3 +1,5 @@
+# 开发者名称
+酱爆八汰鸟/酱爆/Sauce Bomb
 # 游戏链接
 Windows, MacOS, Linux: **Steam** https://store.steampowered.com/app/2428190   
 安卓: **Google Play商店** https://play.google.com/store/apps/details?id=com.sauce.dusk
